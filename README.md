@@ -6,8 +6,8 @@ Business Analyst
 
 
 ---
-• 4+ months of experience working as a Business Development with expertise in Requirement Gathering, BRD & FRD Documentation and Stakeholder Management. 
-• 3+ months of experience working as a Business Analyst with expertise in SQL, Power BI, Excel, Tableau & Jira.
+-  4+ months of experience working as a Business Development with expertise in Requirement Gathering, BRD & FRD Documentation and Stakeholder Management. 
+-  3+ months of experience working as a Business Analyst with expertise in SQL, Power BI, Excel, Tableau & Jira.
 
 I enjoy working with large datasets, building interactive dashboards, and translating complex data into meaningful business insights that improve efficiency and performance.
 
