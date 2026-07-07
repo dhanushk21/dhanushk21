@@ -1,16 +1,25 @@
 <h1 align="center">Hi there 👋 I'm Dhanush</h1>
 
 <p align="center">
-Aspiring Business Analyst
+Business Analyst
 </p>
 
 
 ---
-An aspiring Business Analyst, currently A final-year B.E. student specializing in Electronics and Communication Engineering. I am passionate about analyzing business processes, uncovering insights from data, and supporting data-driven decision-making.
+• 4+ months of experience working as a Business Development with expertise in Requirement Gathering, BRD & FRD Documentation and Stakeholder Management. 
+• 3+ months of experience working as a Business Analyst with expertise in SQL, Power BI, Excel, Tableau & Jira.
 
 I enjoy working with large datasets, building interactive dashboards, and translating complex data into meaningful business insights that improve efficiency and performance.
 
 ---
+## 📜 Certifications
+
+- Microsoft Certified: Fabric Analytics Engineer Associate
+- Business Analyst – Excelr (May 2026) 
+- NASSCOM Certified Business Analyst (2026) 
+- Oracle Cloud Infrastructure 2025 Foundations Associate 
+- Google Prompting Essentials – Google (via Coursera)
+
 ## 📌 My Skills
 
 ### 📊 Data Visualization
