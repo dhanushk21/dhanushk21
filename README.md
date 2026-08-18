@@ -15,11 +15,12 @@ I enjoy working with large datasets, building interactive dashboards, and transl
 ## 📜 Certifications
 
 - Microsoft Certified: Fabric Analytics Engineer Associate
-- Business Analyst – Excelr (May 2026) 
-- NASSCOM Certified Business Analyst (2026) 
-- Oracle Cloud Infrastructure 2025 Foundations Associate 
 - Google Prompting Essentials – Google (via Coursera)
-
+- Google AI Essentials – Google (via Coursera) 
+- NASSCOM Certified Business Analyst(2026)
+- Business Analyst – Excelr(2026) 
+- Oracle Cloud Infrastructure 2025 Foundations Associate 
+  
 ## 📌 My Skills
 
 ### 📊 Data Visualization
